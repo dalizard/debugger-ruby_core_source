@@ -14,6 +14,7 @@ module Debugger
       38126 => 'ruby-2.0.0-preview2',
       38733 => 'ruby-2.0.0-rc1',
       39161 => 'ruby-2.0.0-rc2',
+      40734 => 'ruby-2.0.0-p195'
     }
 
     def self.create_makefile_with_core(hdrs, name)
